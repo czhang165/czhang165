@@ -5,8 +5,8 @@ Quant / ML Engineer · New York
 
 ### About
 Georgia Tech CS / PKU BME graduate with academic training in computer vision, natural language, computational biology, operations research.  
-Currently, I worked as a ML Engineer in private equity industry, built ML systems end-to-end, including search and recommendation pipelines. Specifically, hybrid retrieval and ranking systems were deployed as scalable services. I also worked on distributed training (for matching algorithm) and inference optimization (for conversational AI tool).  
-Previously, I worked as a quant in public equity investment, mid-frequency event-driven strategies in particular, focused on signal design, portfolio construction, risk management—formulating multi-objective problems around constrained optimization.  
+Currently, I worked as a ML Engineer in private equity industry, built ML systems end-to-end, including search and recommendation pipelines that were deployed as scalable services. I also worked on distributed training (for matching algorithm) and inference optimization (for conversational AI tool).  
+Previously, I worked as a Quant in public equity investment, mid-frequency event-driven strategies in particular, focused on signal design, portfolio construction, risk management—formulating multi-objective problems around constrained optimization.  
 A consistent focus is connecting modeling to impact, that enables stakeholders to identify where ML can meaningfully improve outcomes across industries.  
 
 ### Skills
@@ -18,7 +18,7 @@ Exploring AI products · Learning GPU architecture · Consulting for asset manag
 
 ### Looking for...
 Always be open to build new things in an entrepreneurial environment.  
-Specifically, FinTech/AdTech/Healthcare/BioTech/Physical AI ventures that solve domain-specific (regulated industry preferred) inefficiency using AI.  
+Specifically, FinTech/AdTech/Healthcare/BioTech/AI labs that solve domain-specific (regulated industry preferred) inefficiency using AI.  
 
 ---
 Feel free to explore my public repos or reach out regarding private repos!  
