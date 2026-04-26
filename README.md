@@ -22,6 +22,7 @@ Specifically, FinTech/AdTech/Healthcare/BioTech/Physical AI ventures that solve 
 
 ---
 Feel free to explore my public repos or reach out regarding private repos!
+If you are one of athletes, musicians, entrepreneurs or investors, let us chat.  
 
 <!--
 **czhang165/czhang165** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
