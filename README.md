@@ -21,7 +21,7 @@ Always be open to build new things in an entrepreneurial environment.
 Specifically, FinTech/AdTech/Healthcare/BioTech/Physical AI ventures that solve domain-specific (regulated industry preferred) inefficiency using AI.  
 
 ---
-Feel free to explore my public repos or reach out regarding private repos!
+Feel free to explore my public repos or reach out regarding private repos!  
 If you are one of athletes, musicians, entrepreneurs or investors, let us chat.  
 
 <!--
