@@ -11,7 +11,7 @@ A consistent focus is connecting modeling to impact, that enables stakeholders t
 
 ### Skills
 ML / AI:  `PyTorch`, `JAX`, `Hugging Face Transformers`, `Model Pruning / Quantization`, `Parallel Computing`  
-Languages & Infra:  `Python`, `AWS/GCP`, `Weights & Biases`, `PEFT`, `Ray`, `Kubernetes`, `vLLM, `SGLang`  
+Languages & Infra:  `Python`, `AWS/GCP`, `Weights & Biases`, `PEFT`, `Ray`, `Kubernetes`, `vLLM`  
 
 ### Interests
 Exploring AI products · Learning GPU architecture · Consulting for asset management · Boxing  
