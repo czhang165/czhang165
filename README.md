@@ -10,7 +10,7 @@ Previously, I worked as a Quant in public equity investment, mid-frequency event
 A consistent focus is connecting modeling to impact, that enables stakeholders to identify where ML can meaningfully improve outcomes across industries.  
 
 ### Skills
-ML / AI:  `PyTorch`, `JAX`, `Hugging Face Transformers`, `Model Pruning / Quantization`, `Parallel Computing`  
+ML / AI:  `PyTorch`, `JAX`, `Triton`, `Hugging Face Transformers`, `Model Pruning / Quantization`, `Parallel Computing`  
 Languages & Infra:  `Python`, `AWS/GCP`, `Weights & Biases`, `PEFT`, `Ray`, `Kubernetes`, `vLLM`  
 
 ### Interests
@@ -21,8 +21,7 @@ Always be open to build new things in an entrepreneurial environment.
 Specifically, FinTech/AdTech/Healthcare/BioTech/AI labs that solve domain-specific (regulated industry preferred) inefficiency using AI.  
 
 ---
-Feel free to explore my public repos or reach out regarding private repos!  
-If you are one of athletes, musicians, entrepreneurs or investors, let us chat.  
+Feel free to explore my public repos or reach out regarding private repos. Let us chat!  
 
 <!--
 **czhang165/czhang165** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
